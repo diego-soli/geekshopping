@@ -1,5 +1,6 @@
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.Development.json
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\appsettings.json
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-923920CAE5ABA4884326F09438AD84E1.json
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.staticwebassets.runtime.json
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.exe
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\GeekShopping.IdentityServer.deps.json
@@ -286,6 +287,7 @@ C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.AspNetIdentity.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Duende.IdentityServer.Storage.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Humanizer.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\IdentityModel.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -300,6 +302,7 @@ C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
@@ -319,9 +322,13 @@ C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Mono.TextTemplating.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\MySqlConnector.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\System.CodeDom.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\System.Text.Json.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -348,6 +355,7 @@ C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.csproj.AssemblyReference.cache
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.AssemblyInfoInputs.cache
@@ -373,11 +381,3 @@ C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.pdb
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
-C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Humanizer.dll
-C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Mono.TextTemplating.dll
-C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\System.CodeDom.dll
-C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\System.Text.Encodings.Web.dll
-C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\System.Text.Json.dll
-C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-923920CAE5ABA4884326F09438AD84E1.json
