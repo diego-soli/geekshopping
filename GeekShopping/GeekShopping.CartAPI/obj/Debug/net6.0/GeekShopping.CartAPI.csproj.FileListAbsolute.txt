@@ -62,3 +62,7 @@ C:\_cursos\geekshopping\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\refin
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.pdb
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\GeekShopping.CartAPI.genruntimeconfig.cache
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.CartAPI\obj\Debug\net6.0\ref\GeekShopping.CartAPI.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShoppingMessageBus.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.CartAPI\bin\Debug\net6.0\GeekShoppingMessageBus.pdb

@@ -1,0 +1,11 @@
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\bin\Debug\net6.0\GeekShoppingMessageBus.deps.json
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\bin\Debug\net6.0\GeekShoppingMessageBus.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\bin\Debug\net6.0\GeekShoppingMessageBus.pdb
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\obj\Debug\net6.0\GeekShoppingMessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\obj\Debug\net6.0\GeekShoppingMessageBus.AssemblyInfoInputs.cache
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\obj\Debug\net6.0\GeekShoppingMessageBus.AssemblyInfo.cs
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\obj\Debug\net6.0\GeekShoppingMessageBus.csproj.CoreCompileInputs.cache
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\obj\Debug\net6.0\GeekShoppingMessageBus.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\obj\Debug\net6.0\refint\GeekShoppingMessageBus.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\obj\Debug\net6.0\GeekShoppingMessageBus.pdb
+C:\_cursos\geekshopping\GeekShopping\GeekShoppingMessageBus\obj\Debug\net6.0\ref\GeekShoppingMessageBus.dll
