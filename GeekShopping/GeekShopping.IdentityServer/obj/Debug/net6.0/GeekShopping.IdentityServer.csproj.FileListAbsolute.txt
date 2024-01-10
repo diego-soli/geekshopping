@@ -381,3 +381,4 @@ C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.pdb
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
+C:\_cursos\geekshopping\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-948D8FBBE2180E4CA2821EC858650324.json

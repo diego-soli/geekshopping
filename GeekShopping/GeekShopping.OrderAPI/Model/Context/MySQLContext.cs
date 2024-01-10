@@ -2,7 +2,9 @@
 
 namespace GeekShopping.OrderAPI.Model.Context
 {
-    public class MySQLContext : DbContext ///construtor
+    public class MySQLContext : DbContext 
+        
+        ///construtor
     {        
         public MySQLContext(DbContextOptions<MySQLContext> options) : base(options) {} //<<-- objeto do qual estende do dbcontext
         

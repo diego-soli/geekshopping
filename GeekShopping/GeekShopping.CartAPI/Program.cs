@@ -23,9 +23,16 @@ builder.Services.AddSingleton(mapper);
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 builder.Services.AddScoped<ICartRepository, CartRepository>();  //injecao.   
+builder.Services.AddScoped<ICouponRepository, CouponRepository>();  //injecao.   
+
 builder.Services.AddSingleton<IRabbitMQMessageSender, RabbitMQMessageSender>();
 
 builder.Services.AddControllers();
+
+var uriConnection = builder.Configuration["ServiceUrls:CouponAPI"];
+
+builder.Services.AddHttpClient<ICouponRepository, CouponRepository>(s => s.BaseAddress =
+new Uri(uriConnection)); //injeção do repositório pela conexao da url.
 
 builder.Services.AddAuthentication("Bearer")
     .AddJwtBearer("Bearer", options =>
